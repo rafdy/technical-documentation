@@ -9,6 +9,7 @@ You need administration permissions to log in to the admin panel.
 ## Steps
 1. In the Administration Panel’s left navigation pane, click __Settings__.    
 2. Select __Import Users__.
+
 _The system displays the Import functionality screen._
 3.  Specify the user’s email address. Optionally, you can also enter the user’s name and phone.   
 4.  If the user shall receive the email notification prompting to set up a password, mark the __Send activation email__ checkbox.
